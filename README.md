@@ -1,6 +1,6 @@
 <p align="left"> 
 Breno Morias, estudante do  curso Análise e desenvolvimento de sistemas na FATEC(MT).
-Desenvolvedor .NET na WCOGEo Buscando sempre se atualizar nas tecnologias atuais.
+Desenvolvedor .NET na WCOGEO Buscando sempre se atualizar nas tecnologias atuais.
 </p>
 
 Skill :
