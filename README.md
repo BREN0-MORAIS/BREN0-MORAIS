@@ -3,7 +3,7 @@ Breno Morais, estudante do  curso Análise e desenvolvimento de sistemas na FATE
 Desenvolvedor .NET na WCOGEO Buscando sempre se atualizar nas tecnologias atuais.
 </p>
 
-Skill :
+Skills :
 C#/ ASP.NET Core/Entity Framework Core/SQL Server.
 
 <hr>
