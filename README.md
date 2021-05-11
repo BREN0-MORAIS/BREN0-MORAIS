@@ -1,6 +1,6 @@
 <p align="left"> 
 Breno Morais, estudante do  curso Análise e desenvolvimento de sistemas na FATEC(MT).
-Desenvolvedor .NET  Buscando sempre se atualizar nas tecnologias atuais.
+Desenvolvedor .NET  Busca sempre se atualizar nas tecnologias atuais.
 </p>
 
 Skills :
