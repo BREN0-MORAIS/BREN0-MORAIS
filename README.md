@@ -1,10 +1,13 @@
-<p align="left"> 
-Breno Morais, estudante do  curso Análise e desenvolvimento de sistemas na FATEC(MT).
-Desenvolvedor .NET  Busca sempre se atualizar nas tecnologias atuais.
-</p>
 
-Skills :
-C#/ ASP.NET Core/Entity Framework Core/SQL Server.
+>### Breno Morais, estudante do  curso Análise e desenvolvimento de sistemas na FATEC(MT).
+>### Desenvolvedor .NET  Busca sempre se atualizar nas tecnologias atuais.
+
+
+>###  Skills :
+> *  C#
+> *  ASP.NET Core
+> *  Entity Framework Core`
+> *  SQL Server.
 
 <hr>
 <img src="https://github.com/BREN0-MORAIS/CRUD_COVID_CONSULTAS/blob/main/FTBrenoMorais.jpg">
