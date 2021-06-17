@@ -2,6 +2,9 @@
 >### Breno Morais, estudante do  curso Análise e desenvolvimento de sistemas na FATEC(MT).
 >### Desenvolvedor .NET  Busca sempre se atualizar nas tecnologias atuais.
 
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=BREN0-MORAIS)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BREN0-MORAIS)](https://github.com/anuraghazra/github-readme-stats)
+
 
 >###  Skills :
 > *  C#
