@@ -10,7 +10,7 @@
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BREN0-MORAIS&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BREN0-MORAIS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <img src="https://github.com/BREN0-MORAIS/CRUD_COVID_CONSULTAS/blob/main/FTBrenoMorais.jpg">
 <h3>🧑Breno Morais</h3>
