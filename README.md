@@ -1,20 +1,20 @@
 
 >### Breno Morais, estudante do  curso Análise e desenvolvimento de sistemas na FATEC(MT).
 >### Desenvolvedor .NET  Busca sempre se atualizar nas tecnologias atuais.
-
->###  Skills .NET :
+Skils
+*****
+>### .NET :
 > *  C#
 > *  ASP.NET Core
 > *  Entity Framework Core
-<hr>
->###  Skills Mobile :
+>###  Mobile :
 > * Flutter
 > * Dart
-<hr>
->###  Skills Web :
+>###  Web :
 > * Angular
 > * TypeScript
-
+>###  Banco de Dados:
+> * SQL Server
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BREN0-MORAIS&theme=radical)
