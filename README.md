@@ -1,4 +1,6 @@
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/BREN0-MORAIS?cardType=github&theme=blue-green)](https://git.io/awesome-stats-card)
+
 >### Breno Morais, estudante do  curso Análise e desenvolvimento de sistemas na FATEC(MT).
 >### Desenvolvedor .NET  Busca sempre se atualizar nas tecnologias atuais.
 >### Skils
@@ -17,7 +19,7 @@
 > * SQL Server
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BREN0-MORAIS&theme=radical)
+
 
 
 <img src="https://github.com/BREN0-MORAIS/CRUD_COVID_CONSULTAS/blob/main/FTBrenoMorais.jpg">
